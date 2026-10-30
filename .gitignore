@@ -1,0 +1,12 @@
+node_modules/
+client/dist/
+server/data/
+.env
+.DS_Store
+
+/jeevsetu-starter/
+
+*.bak
+
+/client/src/main-backup.txt
+/client/src/stylesCopy.txt
