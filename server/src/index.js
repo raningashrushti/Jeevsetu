@@ -425,6 +425,6 @@ app.use((err, _req, res, _next) => {
 // Start server
 // --------------------------------------------------
 
-app.listen(port, () => {
+app.listen(port, '0.0.0.0', () => {
   console.log(`JeevSetu API running at http://localhost:${port}`);
 });
