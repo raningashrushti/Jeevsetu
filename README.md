@@ -405,8 +405,7 @@ JeevSetu is deployed using:
 ### 4. Rescue Dashboard
 ![JeevSetu Rescue Dashboard](docs/screenshots/rescue-dashboard.png)
 ### 5. Volunteer Dashboard
-![JeevSetu Volunteer Dashboard](![JeevSetu Volunteer Dashboard](./docs/screenshots/volunteerdashboard.png))
-
+![JeevSetu Volunteer Dashboard](./docs/screenshots/volunteerdashboard.png)
 ## 🌱 Advantages of JeevSetu
 
 - **Convenient reporting:** Provides an online place to submit animal rescue reports.
