@@ -397,16 +397,16 @@ JeevSetu is deployed using:
 ![JeevSetu Homepage](docs/screenshots/homepage.png)
 
 ### 2. Animal Rescue Report Form
-![Animal Rescue Report Form](docs/screenshots/report-form.png)
+![Animal Rescue Report Form](docs/screenshots/animalrescuereportform.png)
 
 ### 3. Gnani AI Voice Reporting
-![Gnani AI Voice Reporting](docs/screenshots/voice-reporting.png)
+![Gnani AI Voice Reporting](docs/screenshots/report.png)
 
-### 4. Volunteer Dashboard
-![JeevSetu Volunteer Dashboard](docs/screenshots/volunteer-dashboard.png)
-
-### 5. Rescue Dashboard
+### 4. Rescue Dashboard
 ![JeevSetu Rescue Dashboard](docs/screenshots/rescue-dashboard.png)
+### 5. Volunteer Dashboard
+![JeevSetu Volunteer Dashboard](docs/screenshots/rescuedashboard.png)
+
 ## 🌱 Advantages of JeevSetu
 
 - **Convenient reporting:** Provides an online place to submit animal rescue reports.
