@@ -391,7 +391,22 @@ JeevSetu is deployed using:
 **Backend health check:** https://jeevsetu-backend-g5yx.onrender.com/api/health
 
 ---
+## 📸 Application Preview
 
+### 1. JeevSetu Homepage
+![JeevSetu Homepage](docs/screenshots/homepage.png)
+
+### 2. Animal Rescue Report Form
+![Animal Rescue Report Form](docs/screenshots/report-form.png)
+
+### 3. Gnani AI Voice Reporting
+![Gnani AI Voice Reporting](docs/screenshots/voice-reporting.png)
+
+### 4. Volunteer Dashboard
+![JeevSetu Volunteer Dashboard](docs/screenshots/volunteer-dashboard.png)
+
+### 5. Rescue Dashboard
+![JeevSetu Rescue Dashboard](docs/screenshots/rescue-dashboard.png)
 ## 🌱 Advantages of JeevSetu
 
 - **Convenient reporting:** Provides an online place to submit animal rescue reports.
